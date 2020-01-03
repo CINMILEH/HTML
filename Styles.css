@@ -1,0 +1,21 @@
+.bottomOne{
+    background-color: brown;
+    text-align: center;
+}
+
+.bottomTwo{
+    background-color: aqua;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 100px;
+    margin-left: 20%
+    
+}
+.tittle{
+    color: goldenrod;
+    font-style: oblique;
+    width: 50%;
+    height: 30%;
+}
+.content{
+color: blue;
+}
